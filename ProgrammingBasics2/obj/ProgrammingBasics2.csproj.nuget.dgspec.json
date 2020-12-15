@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dropbox\\Work\\Teaching\\SAE\\GPA4300_en_0920\\ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj": {}
+    "C:\\Users\\bonan\\Documents\\GPA4300_en_ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj": {}
   },
   "projects": {
-    "D:\\Dropbox\\Work\\Teaching\\SAE\\GPA4300_en_0920\\ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj": {
+    "C:\\Users\\bonan\\Documents\\GPA4300_en_ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dropbox\\Work\\Teaching\\SAE\\GPA4300_en_0920\\ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj",
+        "projectUniqueName": "C:\\Users\\bonan\\Documents\\GPA4300_en_ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj",
         "projectName": "ProgrammingBasics2",
-        "projectPath": "D:\\Dropbox\\Work\\Teaching\\SAE\\GPA4300_en_0920\\ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj",
-        "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
-        "outputPath": "D:\\Dropbox\\Work\\Teaching\\SAE\\GPA4300_en_0920\\ProgrammingBasics2\\ProgrammingBasics2\\obj\\",
+        "projectPath": "C:\\Users\\bonan\\Documents\\GPA4300_en_ProgrammingBasics2\\ProgrammingBasics2\\ProgrammingBasics2.csproj",
+        "packagesPath": "C:\\Users\\bonan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bonan\\Documents\\GPA4300_en_ProgrammingBasics2\\ProgrammingBasics2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bonan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

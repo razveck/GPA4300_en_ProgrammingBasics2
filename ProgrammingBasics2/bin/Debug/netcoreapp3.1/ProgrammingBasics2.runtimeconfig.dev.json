@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bonan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bonan\\.nuget\\packages"
+    ]
+  }
+}

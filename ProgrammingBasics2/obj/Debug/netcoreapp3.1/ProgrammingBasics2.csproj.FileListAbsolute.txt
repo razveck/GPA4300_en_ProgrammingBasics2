@@ -1,0 +1,13 @@
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.exe
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.deps.json
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.runtimeconfig.json
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.runtimeconfig.dev.json
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.dll
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.pdb
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.csprojAssemblyReference.cache
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.AssemblyInfoInputs.cache
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.AssemblyInfo.cs
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.csproj.CoreCompileInputs.cache
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.dll
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.pdb
+C:\Users\bonan\Documents\GPA4300_en_ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.genruntimeconfig.cache
