@@ -1,0 +1,13 @@
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.exe
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.deps.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.runtimeconfig.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.runtimeconfig.dev.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\bin\Debug\netcoreapp3.1\ProgrammingBasics2.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.csprojAssemblyReference.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.csproj.CoreCompileInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.AssemblyInfoInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.AssemblyInfo.cs
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\ProgrammingBasics2\obj\Debug\netcoreapp3.1\ProgrammingBasics2.genruntimeconfig.cache
