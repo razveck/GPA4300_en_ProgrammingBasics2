@@ -1,0 +1,13 @@
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0920\ProgrammingBasics2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
