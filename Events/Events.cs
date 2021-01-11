@@ -16,7 +16,15 @@ namespace Events {
 			//difficulty.ChangeDifficulty(Health);
 
 			//raise the event
-			HealthChanged(_health);
+			//always null check
+			if(HealthChanged != null)
+				HealthChanged(_health);
+
+			//the ?. operator is the same as doing if(HealthChanged != null)
+			//Invoke is the same as raising the event directly
+			HealthChanged?.Invoke(_health);
+
+
 		}
 	}
 
