@@ -1,0 +1,51 @@
+{
+  "$id": "1",
+  "GameObjects": [
+    {
+      "$id": "2",
+      "_components": [
+        {
+          "$id": "3",
+          "enabled": true,
+          "transform": null,
+          "gameObject": null,
+          "name": "blabla"
+        }
+      ],
+      "transform": {
+        "$id": "4",
+        "position": {
+          "$id": "5",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "transform": null,
+        "gameObject": null,
+        "name": null
+      },
+      "scene": {
+        "$ref": "1"
+      },
+      "name": null
+    },
+    {
+      "$id": "6",
+      "_components": [],
+      "transform": {
+        "$id": "7",
+        "position": {
+          "$id": "8",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "transform": null,
+        "gameObject": null,
+        "name": null
+      },
+      "scene": null,
+      "name": null
+    }
+  ]
+}
